@@ -1,0 +1,31 @@
+p{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-feature-settings: "afrc";
+    font-style: initial;
+    font-stretch: normal;
+}
+
+body{
+     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+h4{
+    font-size: 25px;
+}
+
+h5{
+    font-size: 25px;
+}
+
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.text_images_and_results{
+    margin-top: 15px; background-color: rgb(155, 153, 153); border-radius: 10px; box-shadow: 1px 1px 25px grey; width:99%; margin-bottom: 15px;
+
+}
